@@ -5,6 +5,7 @@ i3-wm.workspace.03.name: 3: 3 {}
 i3-wm.workspace.04.name: 4: 4 Chat
 i3-wm.workspace.05.name: 5: 5 VM
 i3-wm.workspace.06.name: 6: 6 Keys
+i3-wm.workspace.07.name: 7: 7 Polar
 
 !regolith.look.path: /usr/share/regolith-look/solarized-dark
 regolith.look.path: /usr/share/regolith-look/i3-default
