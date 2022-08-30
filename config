@@ -1,4 +1,6 @@
 workspace "$ws1" output eDP-1
+
+# FlexOffice
 workspace "$ws2" output DP-1
 workspace "$ws3" output DP-1
 workspace "$ws4" output DP-1
@@ -9,8 +11,19 @@ workspace "$ws8" output DP-1
 workspace "$ws9" output DP-1
 workspace "$ws10" output DP-1
 
+# Home
+workspace "$ws2" output HDMI-1
+workspace "$ws3" output HDMI-1
+workspace "$ws4" output HDMI-1
+workspace "$ws5" output HDMI-1
+workspace "$ws6" output HDMI-1
+workspace "$ws7" output HDMI-1
+workspace "$ws8" output HDMI-1
+workspace "$ws9" output HDMI-1
+
 assign [class="firefox"] $ws2
 assign [class="jetbrains-idea"] $ws3
 assign [class="Slack"] $ws4
 assign [class="VirtualBox Manager"] $ws5
 assign [class="keepassx"] $ws6
+assign [class="polar"] $ws7
