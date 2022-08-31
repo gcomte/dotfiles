@@ -21,6 +21,7 @@ workspace "$ws7" output HDMI-1
 workspace "$ws8" output HDMI-1
 workspace "$ws9" output HDMI-1
 
+# Assign programs to specific workspaces
 assign [class="firefox"] $ws2
 assign [class="jetbrains-idea"] $ws3
 assign [class="Slack"] $ws4
