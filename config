@@ -1,30 +1,21 @@
 workspace "$ws1" output eDP-1
 
-# FlexOffice
-workspace "$ws2" output DP-1
-workspace "$ws3" output DP-1
-workspace "$ws4" output DP-1
-workspace "$ws5" output DP-1
-workspace "$ws6" output DP-1
-workspace "$ws7" output DP-1
-workspace "$ws8" output DP-1
-workspace "$ws9" output DP-1
-workspace "$ws10" output DP-1
-
-# Home
-workspace "$ws2" output HDMI-1
-workspace "$ws3" output HDMI-1
-workspace "$ws4" output HDMI-1
-workspace "$ws5" output HDMI-1
-workspace "$ws6" output HDMI-1
-workspace "$ws7" output HDMI-1
-workspace "$ws8" output HDMI-1
-workspace "$ws9" output HDMI-1
+# Mobile Desktop
+workspace "$ws2" output DP-3
+workspace "$ws3" output DP-3
+workspace "$ws4" output DP-3
+workspace "$ws5" output DP-3
+workspace "$ws6" output DP-3
+workspace "$ws7" output DP-3
+workspace "$ws8" output DP-3
+workspace "$ws9" output DP-3
+workspace "$ws10" output DP-3
 
 # Assign programs to specific workspaces
-assign [class="firefox"] $ws2
-assign [class="jetbrains-idea"] $ws3
-assign [class="Slack"] $ws4
-assign [class="VirtualBox Manager"] $ws5
-assign [class="keepassx"] $ws6
-assign [class="polar"] $ws7
+assign [class="firefox"] $ws1
+assign [class="jetbrains-rustrover"] $ws2
+assign [class="obsidian"] $ws4
+assign [class="ChatGPT Desktop"] $ws5
+assign [class="Sparrow"] $ws6
+assign [class="FreeTube"] $ws8
+

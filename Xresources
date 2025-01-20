@@ -1,21 +1,20 @@
+wm.workspace.01.name: 1: 1 www
+wm.workspace.02.name: 2: 2 {}
+wm.workspace.03.name: 3: 3 (•_•) 
+wm.workspace.04.name: 4: 4 ✎
+wm.workspace.05.name: 5: 5 GPT
+wm.workspace.06.name: 6: 6 ₿
+wm.workspace.07.name: 7: 7 [C]
+wm.workspace.08.name: 8: 8 ♫
 
-i3-wm.workspace.01.name: 1: 1 Calendar
-i3-wm.workspace.02.name: 2: 2 Browse
-i3-wm.workspace.03.name: 3: 3 {}
-i3-wm.workspace.04.name: 4: 4 Chat
-i3-wm.workspace.05.name: 5: 5 VM
-i3-wm.workspace.06.name: 6: 6 Keys
-i3-wm.workspace.07.name: 7: 7 Polar
+wm.gaps.inner.size: 0
 
-!regolith.look.path: /usr/share/regolith-look/solarized-dark
-regolith.look.path: /usr/share/regolith-look/i3-default
-
-i3-wm.gaps.inner.size: 10
-regolith.wallpaper.file: /home/gcom/Pictures/trees_black_white.jpg 
+regolith.wallpaper.file: /home/gcom/Pictures/Wallpapers/moon.jpg 
 regolith.wallpaper.options: zoom 
 
-i3-wm.client.focused.color.border: #00FFFF
-i3-wm.client.focused.color.background: #00FFFF
-i3-wm.client.focused.color.text: #000000
-i3-wm.client.focused.color.indicator: #000000
-i3-wm.client.focused.color.child_border: #00FFFF 
+wm.client.focused.color.border: #00FFFF
+wm.client.focused.color.background: #00FFFF
+wm.client.focused.color.text: #000000
+wm.client.focused.color.indicator: #000000
+wm.client.focused.color.child_border: #00FFFF 
+
